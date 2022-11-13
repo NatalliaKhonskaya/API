@@ -1,0 +1,28 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "\"I am learning API\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalliaKhonskaya/my-learning-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "API",
+    "test-automation"
+  ],
+  "author": "Natallia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalliaKhonskaya/my-learning-api/issues"
+  },
+  "homepage": "https://github.com/NatalliaKhonskaya/my-learning-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

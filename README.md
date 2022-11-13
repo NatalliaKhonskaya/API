@@ -10,3 +10,8 @@ My goals:
 
 The project is based on tutorial
 https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
+
+Run "Hello World" in node js. Directory `/src/main`
+```
+node main.js
+```
