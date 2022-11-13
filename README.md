@@ -8,10 +8,19 @@ My goals:
 ## My learning plan and progress
 [link](./learningPlan.md)
 
-The project is based on tutorial
+**The project is based on tutorial**
 https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
 
 Run "Hello World" in node js. Directory `/src/main`
 ```
 node main.js
 ```
+
+### How to run server.
+Navigate to main directory
+`cd .\src\main\`
+
+and run server.js
+`node .\server.js`
+
+In the browser `http://127.0.0.1:8081/users/`
