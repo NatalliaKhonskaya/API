@@ -7,3 +7,6 @@ My goals:
 
 ## My learning plan and progress
 [link](./learningPlan.md)
+
+The project is based on tutorial
+https://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
